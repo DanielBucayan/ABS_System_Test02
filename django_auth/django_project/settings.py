@@ -40,6 +40,7 @@ INSTALLED_APPS = [
     "django.contrib.sites",  # new
     "allauth",  # new
     "allauth.account",  # new
+]
 
 MIDDLEWARE = [
     "django.middleware.security.SecurityMiddleware",
